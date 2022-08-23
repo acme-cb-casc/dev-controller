@@ -1,0 +1,4 @@
+variables:
+- team: acme-cb-casc
+- admin-user: rbgithub-admin
+- manager-user: rbgithub
